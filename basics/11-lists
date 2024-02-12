@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lar basics/../boot
+ls -larR basics/../boot
